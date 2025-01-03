@@ -1,0 +1,7 @@
+package-lock.json
+node_modules
+.env
+coverage
+samconfig.toml
+.aws-sam
+**/.DS_Store
