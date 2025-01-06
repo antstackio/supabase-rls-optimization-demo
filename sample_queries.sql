@@ -60,4 +60,5 @@ BEGIN
 END;
 $$;
 
+SELECT get_projects_analytics(ARRAY[1000,1001,1002]);
 

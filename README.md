@@ -58,6 +58,8 @@ supabase init
 supabase start
 ```
 
+Note: If you want to push the changes to your Supabase project, you can refer to the following link: [Supabase Documentation](https://supabase.com/docs/guides/deployment/database-migrations#deploy-your-project)
+
 ## Usage
 
 - Use the generated JWT token to authenticate API requests.
